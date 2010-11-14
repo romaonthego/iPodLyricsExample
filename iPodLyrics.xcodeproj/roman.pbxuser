@@ -1,0 +1,267 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* iPodLyricsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1063, 660}}";
+			sepNavSelRange = "{175, 35}";
+			sepNavVisRange = "{0, 513}";
+		};
+	};
+	1D3623250D0F684500981E51 /* iPodLyricsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1063, 660}}";
+			sepNavSelRange = "{647, 0}";
+			sepNavVisRange = "{0, 883}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* iPodLyrics */ = {
+		activeExec = 0;
+		executables = (
+			3000A018118E5BDD00C11B5A /* iPodLyrics */,
+		);
+	};
+	289233A80DB2D0DB0083E9F9 /* MainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1063, 660}}";
+			sepNavSelRange = "{400, 0}";
+			sepNavVisRange = "{0, 656}";
+			sepNavWindowFrame = "{{15, 210}, {1236, 663}}";
+		};
+	};
+	289233A90DB2D0DB0083E9F9 /* MainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1063, 1404}}";
+			sepNavSelRange = "{221, 0}";
+			sepNavVisRange = "{0, 1644}";
+			sepNavWindowFrame = "{{15, 210}, {1236, 663}}";
+		};
+	};
+	289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1063, 660}}";
+			sepNavSelRange = "{437, 0}";
+			sepNavVisRange = "{0, 572}";
+		};
+	};
+	289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1102, 741}}";
+			sepNavSelRange = "{474, 0}";
+			sepNavVisRange = "{47, 1117}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 3000A018118E5BDD00C11B5A /* iPodLyrics */;
+		activeSDKPreference = iphoneos3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iPodLyrics */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iPodLyrics */,
+		);
+		codeSenseManager = 3000A038118E5BE700C11B5A /* Code sense */;
+		executables = (
+			3000A018118E5BDD00C11B5A /* iPodLyrics */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 297229514;
+			PBXWorkspaceStateSaveDate = 297229514;
+		};
+		perUserProjectItems = {
+			3090727B118FA2BC004DFE39 = 3090727B118FA2BC004DFE39 /* PBXTextBookmark */;
+			3090737E118FB49F004DFE39 = 3090737E118FB49F004DFE39 /* PBXTextBookmark */;
+			30A87BAE1199E2F0000464A7 = 30A87BAE1199E2F0000464A7 /* PBXTextBookmark */;
+			30A87BB11199E2F0000464A7 = 30A87BB11199E2F0000464A7 /* PlistBookmark */;
+			30AC666111B75C2B002AAA53 = 30AC666111B75C2B002AAA53 /* PBXTextBookmark */;
+			30AC666211B75C2B002AAA53 = 30AC666211B75C2B002AAA53 /* PBXTextBookmark */;
+			30AC666311B75C2B002AAA53 = 30AC666311B75C2B002AAA53 /* PBXTextBookmark */;
+			30AC666411B75C2B002AAA53 = 30AC666411B75C2B002AAA53 /* PBXTextBookmark */;
+			30AC666511B75C2B002AAA53 = 30AC666511B75C2B002AAA53 /* PBXTextBookmark */;
+			30AC666611B75C2B002AAA53 = 30AC666611B75C2B002AAA53 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3000A037118E5BE700C11B5A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3000A018118E5BDD00C11B5A /* iPodLyrics */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iPodLyrics;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3000A037118E5BE700C11B5A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3000A038118E5BE700C11B5A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3090727B118FA2BC004DFE39 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* iPodLyricsAppDelegate.h */;
+		name = "iPodLyricsAppDelegate.h: 10";
+		rLen = 35;
+		rLoc = 175;
+		rType = 0;
+		vrLen = 513;
+		vrLoc = 0;
+	};
+	309072BC118FA69C004DFE39 /* LoadingView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1063, 660}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 625}";
+		};
+	};
+	309072BD118FA69D004DFE39 /* LoadingView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1063, 2808}}";
+			sepNavSelRange = "{97, 14}";
+			sepNavVisRange = "{0, 1343}";
+		};
+	};
+	3090737E118FB49F004DFE39 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */;
+		name = "FlipsideViewController.m: 23";
+		rLen = 0;
+		rLoc = 474;
+		rType = 0;
+		vrLen = 1117;
+		vrLoc = 47;
+	};
+	30A87BAE1199E2F0000464A7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* iPodLyricsAppDelegate.m */;
+		name = "iPodLyricsAppDelegate.m: 27";
+		rLen = 25;
+		rLoc = 698;
+		rType = 0;
+		vrLen = 883;
+		vrLoc = 0;
+	};
+	30A87BB11199E2F0000464A7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* iPodLyrics-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleDisplayName,
+		);
+		name = "/Users/roman/iPhone/iPodLyrics/iPodLyrics-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	30AC666111B75C2B002AAA53 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A80DB2D0DB0083E9F9 /* MainViewController.h */;
+		name = "MainViewController.h: 15";
+		rLen = 0;
+		rLoc = 400;
+		rType = 0;
+		vrLen = 656;
+		vrLoc = 0;
+	};
+	30AC666211B75C2B002AAA53 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */;
+		name = "FlipsideViewController.h: 20";
+		rLen = 0;
+		rLoc = 437;
+		rType = 0;
+		vrLen = 572;
+		vrLoc = 0;
+	};
+	30AC666311B75C2B002AAA53 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 309072BC118FA69C004DFE39 /* LoadingView.h */;
+		name = "LoadingView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 625;
+		vrLoc = 0;
+	};
+	30AC666411B75C2B002AAA53 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 309072BD118FA69D004DFE39 /* LoadingView.m */;
+		name = "LoadingView.m: 6";
+		rLen = 14;
+		rLoc = 97;
+		rType = 0;
+		vrLen = 1343;
+		vrLoc = 0;
+	};
+	30AC666511B75C2B002AAA53 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 33";
+		rLen = 23;
+		rLoc = 1015;
+		rType = 0;
+		vrLen = 1749;
+		vrLoc = 43;
+	};
+	30AC666611B75C2B002AAA53 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
+		name = "MainViewController.m: 44";
+		rLen = 0;
+		rLoc = 1429;
+		rType = 0;
+		vrLen = 1749;
+		vrLoc = 43;
+	};
+}
